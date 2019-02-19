@@ -68,3 +68,7 @@ print("\ntotal : ", total)
 - [x] Menggunakan kondisional if Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa if yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
 
 # output :
+
+![image](https://user-images.githubusercontent.com/46512186/52992081-de621800-3441-11e9-9ab1-346f59b25d09.png)
+
+
